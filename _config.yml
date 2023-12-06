@@ -37,8 +37,8 @@ plainwhite:
     #telegram: jekyll
     gitlab: jekyll
     #email: jekyll
-    linkedIn: smndkab
-    #twitter: dsdfa
+    #linkedIn: smndkab
+    twitter: dsdfa
 
     # Mastodon instances
     # mastodon:
