@@ -19,10 +19,10 @@ All codes and Datas were uploaded on our Github.
 ---
 # Latest News
 ---
-* 2XXX-11-XX
-  - blablabla
-* 20XX-12-06
-  - blablabla
+* 2023-12-06
+  - Version 0.0.2 released, data uploaded
+* 2023-11-23
+  - Version 0.0.1 released
 
 ---
 
