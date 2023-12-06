@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 author: Tae-ho Kim, Jun-Beom Lee, Chan-Been Lee, Seul-Been Je
 title: Blue Sky Seoul
 ---
