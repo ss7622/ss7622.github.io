@@ -3,6 +3,12 @@
 
 <head>
   {%- include head.html -%}
+
+  <style>
+    li div {
+      display: block;
+    }
+  </style>
 </head>
 
 {%- if site.plainwhite.condensed_mobile contains page.layout -%}
@@ -45,42 +51,42 @@
         {%- if site.plainwhite.social_links.gitlab -%}
         <a href="https://ss7622.github.io/community/" target="_blank">
           <li>
-            Community<br>
+            <div>Community</div>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.linkedIn -%}
         <a href="https://ss7622.github.io/github/" target="_blank">
           <li>
-            Github Site<br>
+            <div> Github Site</div>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.twitter -%}
         <a href="https://ss7622.github.io/Contact_Information/" target="_blank">
           <li>
-            Contact Information<br>
+            <div>Contact Information</div>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.instagram -%}
         <a href="https://ss7622.github.io/documentation/" target="_blank">
           <li>
-            Documentation<br>
+            <div>Documentation</div>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.facebook -%}
         <a href="https://ss7622.github.io/about/" target="_blank">
           <li>
-            About Project<br>
+            <div>About Project</div>
           </li>
         </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.youtube -%}
         <a href="https://ss7622.github.io/feature/" target="_blank">
           <li>
-            Feature <br>
+            <div>Feature</div>
           </li>
         </a>
         {%- endif -%}
