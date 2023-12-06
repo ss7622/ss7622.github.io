@@ -56,3 +56,21 @@ plainwhite:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+plainwhite:
+  sitemap: true
+
+plainwhite:
+  navigation:
+    - title: Home
+      url: "/index/"
+    - title: About project
+      url: "/about/"
+    - title: Community
+      url: "/community"
+    - title: Github
+      url: "/github/"
+    - title: Contact Information
+      url: "/Contact_Information/"
+    - title: Documentation
+      url: "/documentation/"
