@@ -36,7 +36,7 @@ Usually, we can see that the level of fine dust is highly increasing in Spring a
 
 ### Our Actions
 1. Air Pollution Analysis
-- We will analyze the average daily air pollution level in Seoul and calculate the average air pollution level by autonomous district by month, and will select as the target area for installation of ‘street-lamp type fine dust reducer.
+- We will analyze the average daily air pollution level in Seoul and calculate the average air pollution level by autonomous district by month, and will select as the target area for installation of street-lamp type fine dust reducer.
 
 2. Analyzing bus data
 - We will analyze the number of people getting on and off at each bus stop in Seoul because we thought that the large floating population will cause a high concentration of fine dust.
