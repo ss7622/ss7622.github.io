@@ -9,7 +9,7 @@ permalink: /Installation/
 ---
 To Download Our Project, Click below button or clone our Git:
 
-Version 0.0.2: <a href= "./code/BlueSkySeoulCode_v0.0.2.ipynb" download="./code/BlueSkySeoulCode_v0.0.2.ipynb">Download code</a>
+Version 0.0.2: [Download code](./code/BlueSkySeoulCode_v0.0.2.ipynb)
 
 
 
